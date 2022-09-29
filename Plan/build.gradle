@@ -74,7 +74,7 @@ subprojects {
         velocityVersion = "3.0.0-SNAPSHOT"
         redisBungeeVersion = "0.3.8-SNAPSHOT"
 
-        commonsTextVersion = "1.9"
+        commonsTextVersion = "1.10.0"
         commonsCompressVersion = "1.21"
         caffeineVersion = "2.9.2"
         mysqlVersion = "8.0.27"
